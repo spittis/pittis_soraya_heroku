@@ -1,12 +1,10 @@
 const data = {
-    name: "Trevor",
-    role: "confuserator",
 
     user1: {
         name: "Deluxe Pizza",
         role: "Classic",
         bio: "Pepperoni, fresh mushrooms, green peppers, bacon, sliced tomatoes, Spanish onions",
-        bioPic: "deluxe.jpg"
+        bioPic: "deluxe.jpg",
     },
 
     user2: {
@@ -22,6 +20,8 @@ const data = {
         bio: "It’s simple, but flavourful: tender chunks of plum tomato mixed with parmigiano cheese and a generous sprinkling of basil.",
         bioPic: "nonna.jpg"
     }
+
+
 };
 
 module.exports = data;
