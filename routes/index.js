@@ -7,6 +7,7 @@ const data = require('../data');
 router.get('/', function(req, res, next) {
   // res.render('index', { logo: '/images/logo3.png'}); 
   res.render('index', { title: 'Soraya\'s Pizzeria'});
+  res.render('index', { commercial: '/images/pizzamov.mp4'});
 });
 
 //copied the top one. dynamic placeholder 
