@@ -4,7 +4,7 @@ Soraya's Pizzeria is a Pizzeria that orginated in Toronto, Ontario in the 1990s.
 
 ## Getting Started
 
-Users can view this site by visiting https://pittis-soraya-heroku.herokuapp.com/
+Visit the site live on Heroku: https://pittis-soraya-heroku.herokuapp.com/
 
 ## Built With
 
