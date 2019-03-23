@@ -5,9 +5,8 @@ const data = require('../data');
 
 /* GET home page. */ //this just gets the root
 router.get('/', function(req, res, next) {
-  // res.render('index', { logo: '/images/logo3.png'}); 
   res.render('index', { title: 'Soraya\'s Pizzeria'});
-  res.render('index', { commercial: '/images/header.jpg'});
+  // res.render('index', { commercial: '/images/header.jpg'});
 });
 
 //copied the top one. dynamic placeholder 

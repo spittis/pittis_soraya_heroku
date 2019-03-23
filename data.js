@@ -22,7 +22,9 @@ const data = {
         bio: "It’s simple, but flavourful: tender chunks of plum tomato mixed with parmigiano cheese and a generous sprinkling of basil.",
         cost: "$13.99",
         bioPic: "nonna.jpg"
-    }
+    },
+
+    
 
 
 };
